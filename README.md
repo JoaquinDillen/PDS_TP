@@ -10,17 +10,19 @@ Specific Objectives:
   Development of an algorithm to analyze a student's voice while saying the
   access/registration password in the classroom. This algorithm has 2 objectives: 
   
-  (1) to identify the student saying the password.
+    (1) to identify the student saying the password.
   
-  (2) identify the password said by the student.
+    (2) identify the password said by the student.
   
 Programming language: Python.
     The various topics covered in class will be assessed in the algorithm developed by
   each group of students:
  
-  1. Spectral representation of digital signals
-  2. Digital filters
-  3. Voice signal analysis for speaker identification and keywords
+    (1) Spectral representation of digital signals
+  
+    (2) Digital filters
+  
+    (3) Voice signal analysis for speaker identification and keywords
   
 Minimum requirements:
     Although the digital audio processing algorithm must run simultaneously (in
