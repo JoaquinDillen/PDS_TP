@@ -18,11 +18,11 @@ Programming language: Python.
     The various topics covered in class will be assessed in the algorithm developed by
   each group of students:
  
-    (1) Spectral representation of digital signals
+    (1) Spectral representation of digital signals.
   
-    (2) Digital filters
+    (2) Digital filters.
   
-    (3) Voice signal analysis for speaker identification and keywords
+    (3) Voice signal analysis for speaker identification and keywords.
   
 Minimum requirements:
     Although the digital audio processing algorithm must run simultaneously (in
