@@ -4,7 +4,7 @@ This Practical Work was made with the objective of attempt a work for the MsC of
 
 February 2022 Barcelos, Portugal
 
-Processamento Digital de Sinal (Nuno Dias - ndias@ipca.pt)
+Digital Signal Processing (Nuno Dias - ndias@ipca.pt)
 
 Specific Objectives:
   Development of an algorithm to analyze a student's voice while saying the
