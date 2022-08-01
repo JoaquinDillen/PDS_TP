@@ -46,4 +46,6 @@ Delivery:
 - Jupyter notebook
 - Dataset for testing the developed algorithm
 
+## License
 
+© 2022, JoaquinDillen. Released under [MIT License](https://opensource.org/licenses/mit-license.php).
