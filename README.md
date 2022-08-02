@@ -7,7 +7,7 @@ This Practical Work was made with the objective of attempt a work for the MsC of
 
 February 2022 Barcelos, Portugal
 
-Professor of Digital Signal Processing ([Nuno Dias]([myLib/README.md](https://www.linkedin.com/in/nuno-dias-5b58051/)))
+Professor of Digital Signal Processing ([Nuno Dias](https://www.linkedin.com/in/nuno-dias-5b58051/))
 
 Specific Objectives:
   Development of an algorithm to analyze a student's voice while saying the
